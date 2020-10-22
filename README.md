@@ -1,4 +1,5 @@
-This application helps dealers to track Model, Location & Frame wise stock.
+#This application helps dealers to track Model, Location & Frame wise stock.
+
 Model and Branch wise Stock summary
 ![Home](https://user-images.githubusercontent.com/68228126/95952710-3bc88b00-0e16-11eb-9113-17b576fb6f38.jpg)
 Search by frame
